@@ -14,6 +14,6 @@ All solutions are written in `Java`
 # Contributions
 You can contribute by
 
-1. providing better solutions
+1. Providing better solutions
 2. Testing the validity of existing solutions
 3. Improving the performance of existing code 
