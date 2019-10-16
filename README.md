@@ -5,7 +5,7 @@ A set of questions, and their respective solution from the competitive programmi
 # Repo Structure
 The repo has folders with letter names, each folder contains:
 
-- PDF file containing the problem statement.
+- Image (jpeg) containing the problem statement.
 - Java file containing the solution.
 - Input sample
 
